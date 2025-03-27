@@ -24,7 +24,7 @@ I am currently pursuing a Master's in Computer Science, and I have a passion for
 
 ## 📫 How to reach me
 
-- Email: sadguruthakur365@gmail.com
+- Email: sadguruthakur366@gmail.com
 - LinkedIn: 
 
 Feel free to check out my repositories and contribute to my projects. Looking forward to collaborating with fellow developers and tech enthusiasts!
