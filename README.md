@@ -1,4 +1,7 @@
-img src="https://komarev.com/ghpvc/?username=thakursadguru&label=Profile%20views&color=0e75b6&style=flat" alt="thakursadguru" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thakursadguru&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 
 # 👋 Hi, I'm Sadguru Thakur <p align="left">
 
