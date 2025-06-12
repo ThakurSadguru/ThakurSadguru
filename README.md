@@ -2,16 +2,16 @@
 
 # 👋 Hi, I'm Sadguru Thakur <p align="left">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;React+%7C+Node+%7C+TypeScript;Intern+%40+Clarovate)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Java+%7C;React+%7C+Node+%7C+TypeScript;MS+%40+Computer Science)
 
 
 
 ## 🚀 About Me
 
-- 🎓 Masters in Computer Science
-- 💼 .
-- 🧠 Full Stack Java Developer with React, Bootstrap,Tailwind
-- 🌐 .
+- 🎓 Masters in Computer Science  
+- 💼 .  
+- 🧠 Full Stack Java Developer with React, Bootstrap, Tailwind  
+- 🌐 Exploring AI, LLMs, and Machine Learning  
 
 ## 🧰 Tools & Technologies
 
@@ -26,6 +26,7 @@
 ### 🧱 Frameworks  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -66,7 +67,7 @@
 
 ## 📫 Contact Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadgurusingh-thakur-695082267/)]([https://linkedin.com/in/anishshet](https://www.linkedin.com/in/sadgurusingh-thakur-695082267/))
+-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sadgurusingh-thakur-695082267/)
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sadguruthakur366@gmail.com)](mailto:sadguruthakur366@gmail.com)
 
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://portfolio-sadguruthakur-gmailcoms-projects.vercel.app)](https://portfolio-sadguruthakur366-gmailcoms-projects.vercel.app)
