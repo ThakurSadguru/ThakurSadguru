@@ -71,10 +71,9 @@
 
 ## 📫 Contact Me
 
--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sadgurusingh-thakur-695082267/)
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sadguruthakur366@gmail.com)](mailto:sadguruthakur366@gmail.com)
-
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://portfolio-sadguruthakur-gmailcoms-projects.vercel.app)](https://portfolio-sadguruthakur366-gmailcoms-projects.vercel.app)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sadgurusingh-thakur-695082267/)
+- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sadguruthakur366@gmail.com)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-sadguruthakur366-gmailcoms-projects.vercel.app)
 
 
 ---
