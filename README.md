@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Sadguru Thakur <p align="left">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Java+%7C;React+%7C+Node+%7C+TypeScript;MS+%40+Computer Science)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Java+%7C+React+%7C+Node+%7C+TypeScript;M.Sc.+in+Computer+Science)
+
 
 
 
