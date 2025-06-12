@@ -1,11 +1,12 @@
-<img src="https://komarev.com/ghpvc/?username=anishshet&label=Profile%20views&color=0e75b6&style=flat" alt="thakursadguru" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thakursadguru&label=Profile%20views&color=0e75b6&style=flat" alt="thakursadguru" />
+</p>
 
-# 👋 Hi, I'm Sadguru Thakur <p align="left">
+# 👋 Hi, I'm Sadguru Thakur
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Java+%7C+React+%7C+Node+%7C+TypeScript;M.Sc.+in+Computer+Science)
 
-
-
+---
 
 ## 🚀 About Me
 
@@ -13,6 +14,8 @@
 - 💼 .  
 - 🧠 Full Stack Java Developer with React, Bootstrap, Tailwind  
 - 🌐 Exploring AI, LLMs, and Machine Learning  
+
+---
 
 ## 🧰 Tools & Technologies
 
@@ -27,6 +30,7 @@
 ### 🧱 Frameworks  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -59,22 +63,22 @@
 ### 🖥️ Operating Systems  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+---
 
 ## 📊 GitHub Stats
-
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=thakursadguru&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakursadguru&layout=compact&theme=github_dark)
 
+---
+
 ## 📫 Contact Me
 
--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sadgurusingh-thakur-695082267/)
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sadguruthakur366@gmail.com)](mailto:sadguruthakur366@gmail.com)
-
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://portfolio-sadguruthakur-gmailcoms-projects.vercel.app)](https://portfolio-sadguruthakur366-gmailcoms-projects.vercel.app)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sadgurusingh-thakur-695082267/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sadguruthakur366@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-sadguruthakur366-gmailcoms-projects.vercel.app)
+[![Resume](https://img.shields.io/badge/-Resume-0A66C2?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/anishshet/anishshet/blob/main/Anish_Shet.pdf)
 
 ---
-📄 [View My Resume](https://github.com/anishshet/anishshet/blob/main/Anish_Shet.pdf)
 
-*“Striving for excellence in every line of code.”*
+📝 *“Striving for excellence in every line of code.”*
